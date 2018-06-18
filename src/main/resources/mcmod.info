@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "autocommander",
+    "name": "Auto Commadner",
+    "description": "Execute command automatic.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "http://github.com/MeowCta-Studio/Auto-Commander/",
+    "updateUrl": "http://github.com/MeowCta-Studio/Auto-Commander/tags",
+    "authorList": ["MlgmXyysd"],
+    "credits": "MeowCat Studio",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
